@@ -1,4 +1,8 @@
 .ipynb_checkpoints
 
 *.jpg
+*.png
+!ca_assignment/q2_tests/*.png
+!ca_assignment/q3_tests/*.png
 ca_assignment/denis_adelin_diac_20337941.docx
+*.pdf
